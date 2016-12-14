@@ -1303,6 +1303,11 @@ section {
   background-position:50% 50%;
 }
 
+#contact .icon-git {
+  background-image:url(../img/icon_linkedin_small.png);
+  background-position:50% 50%;
+}
+
 #contact p.copyright {
 	position:relative;
 	z-index:6;
